@@ -1,0 +1,10 @@
+[
+  "test_day_4.py::test_byr",
+  "test_day_4.py::test_iyr",
+  "test_day_4.py::test_eyr",
+  "test_day_4.py::test_hgt",
+  "test_day_4.py::test_hcl",
+  "test_day_4.py::test_ecl",
+  "test_day_4.py::test_pid",
+  "test_day_4.py::test_dicts"
+]
